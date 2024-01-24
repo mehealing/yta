@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "友太安"
-  text: "前端开发文档"
+  text: "前端开发文档1"
   tagline: 
   actions:
     - theme: brand
