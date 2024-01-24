@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "友太安"
-  text: "前端开发文档1"
+  text: "前端开发文档"
   tagline: 
   actions:
     - theme: brand
@@ -12,7 +12,7 @@ hero:
       link: /markdown-examples
     - theme: alt
       text: Github
-      link: /api-examples
+      link: "https://github.com/mehealing/yta"
 
 features:
   - icon: 🛠️ 
